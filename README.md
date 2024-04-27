@@ -1,4 +1,4 @@
-# Trend Following Analysis on EUR/USD
+# Trend Following Analysis on EUR/USD (Prof. Carlos De. Oliveira)
 
 This repository contains the Jupyter Notebook for a trend-following analysis and backtesting project on the EUR/USD currency pair. Developed as part of a project at NYU, this notebook implements various trend-following strategies to analyze and predict the currency movements of the Euro against the US Dollar.
 
